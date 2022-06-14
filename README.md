@@ -1,5 +1,5 @@
-# desafio2
-Desaffio2, landing page
+# Desafio2
+Desafio2, landing page
 
 
 Para visualizar la pagina:
